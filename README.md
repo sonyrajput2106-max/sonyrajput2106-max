@@ -22,8 +22,8 @@ Hi! I'm a passionate Computer Science student exploring the world of software de
 <a href="https://www.x.com/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-### Badges
+ Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sonyrajput2106-max"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sonyrajput2106-max&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a
+<a href="http://www.github.com/sonyrajput2106-max"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sonyrajput2106-max&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
