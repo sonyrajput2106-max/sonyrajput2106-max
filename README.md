@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hi! I'm a passionate Computer Science student exploring the world of software development — from DSA to web applications
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [sonyrajput2109@gmail.com](mailto:sonyrajput2106@gmail.com)
+* ✉️  You can contact me at [sonyrajput2106@gmail.com](mailto:sonyrajput2106@gmail.com)
 * 🧠  I'm currently learning React And DSA In Java
 * 👥  I'm looking to collaborate on Web development projects, open-source contributions
 * 💬  Ask me about I love combining code with creativity — whether it's through game design, UI/UX, or building tools that solve real problems!
